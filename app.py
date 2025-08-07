@@ -10,7 +10,7 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
     menu_items={
-        "Report a bug": "https://github.com/vivekpathania/ai-experiments/issues"
+        "Report a bug": "https://github.com/aymanElMikh/ecom-agent-agno/issues"
     }
 )
 

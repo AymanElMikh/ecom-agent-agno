@@ -62,8 +62,6 @@ class Instructions:
 
 
 
-
-
     
     CONVERSATION_INSTRUCTIONS = dedent("""\
     You are a friendly e-commerce product search assistant. You already know:
